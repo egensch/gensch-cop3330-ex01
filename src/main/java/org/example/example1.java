@@ -12,9 +12,6 @@ public class example1 {
         System.out.print("What is your name? ");
         String name = myObj.nextLine();
 
-        System.out.print("Hello, " + name);
-        System.out.println(", nice to meet you!");
-
-
+        System.out.println("Hello, " + name + ", nice to meet you!");
     }
 }
